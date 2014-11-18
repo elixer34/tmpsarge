@@ -1,0 +1,35 @@
+#
+# Created by WebMap 1.0.1
+# Saturday, October 10, 1998 at 1:25 PM
+# Format: NCSA
+#
+
+
+default ..
+rect thumbnail1.html 20,17 92,34
+rect http://www.shout.net/~romance/10_6/chadandsue.html 30,39 93,56
+rect http://www.shout.net/~romance/10_7/racheleliz.html 30,60 96,76
+rect http://www.shout.net/~romance/10_8/sfcrowd.html 30,82 97,97
+rect http://www.shout.net/~romance/10_9/ 31,101 97,118
+rect http://www.shout.net/~romance/10_10/ 21,123 97,140
+rect http://www.shout.net/~romance/10_11/ 24,144 97,163
+rect http://www.shout.net/~romance/10_12/ 22,167 100,182
+rect http://www.shout.net/~romance/10_13/ 22,186 100,202
+rect http://www.shout.net/~romance/10_14/ 22,207 100,223
+rect http://www.shout.net/~romance/10_15/ 22,230 100,245
+rect http://www.shout.net/~romance/10_16/ 21,250 101,265
+rect http://www.shout.net/~romance/10_17/ 21,270 96,287
+rect http://www.shout.net/~romance/10_18/ 21,291 98,307
+rect http://www.shout.net/~romance/10_19/ 22,313 99,328
+rect http://www.shout.net/~romance/10_20/ 20,334 98,349
+rect http://www.shout.net/~romance/10_21/ 22,353 98,370
+rect http://www.shout.net/~romance/10_22/ 20,376 98,391
+rect http://www.shout.net/~romance/10_23/ 23,397 99,412
+rect http://www.shout.net/~romance/10_24/ 20,418 98,433
+rect http://www.shout.net/~romance/10_25/ 20,438 100,453
+rect http://www.shout.net/~romance/10_26/ 21,460 96,474
+rect http://www.shout.net/~romance/10_27/ 21,480 95,495
+rect http://www.shout.net/~romance/10_28/ 22,504 96,518
+rect http://www.shout.net/~romance/10_29/ 22,522 95,538
+rect http://www.shout.net/~romance/10_30/ 20,544 96,559
+rect http://www.shout.net/~romance/10_31/ 20,563 95,580

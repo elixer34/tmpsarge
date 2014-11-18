@@ -1,0 +1,37 @@
+#
+# Created by WebMap 1.0.1
+# Thursday, November 5, 1998 at 2:01 PM
+# Format: NCSA
+#
+
+
+default ..
+rect sargepictsold.html 19,19 92,37
+rect sargepictsnov.html 30,42 92,58
+rect .. 30,80 92,95
+rect .. 31,101 92,117
+rect .. 31,124 92,137
+rect .. 31,144 91,159
+rect .. 23,164 92,180
+rect .. 23,186 92,202
+rect .. 23,207 91,222
+rect .. 23,227 91,242
+rect .. 24,249 92,265
+rect .. 22,271 92,285
+rect .. 23,290 93,307
+rect .. 24,312 92,327
+rect .. 23,333 92,347
+rect .. 23,354 91,369
+rect .. 22,375 92,390
+rect .. 22,395 91,410
+rect .. 24,417 92,431
+rect .. 21,438 91,452
+rect .. 23,459 93,473
+rect .. 22,480 92,495
+rect .. 22,502 94,517
+rect .. 21,522 93,537
+rect .. 21,544 92,557
+rect .. 22,564 94,579
+rect .. 22,586 93,600
+rect .. 0,0 0,0
+rect .. 21,607 92,621

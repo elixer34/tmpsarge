@@ -1,0 +1,35 @@
+#
+# Created by WebMap 1.0.1
+# Thursday, November 5, 1998 at 2:20 PM
+# Format: NCSA
+#
+
+
+default ..
+rect sargepictsold.html 20,20 92,36
+rect sargepictsoct.html 39,42 92,56
+rect http://www.shout.net/~romance/11_1/ 18,78 93,97
+rect http://www.shout.net/~romance/11_2/ 17,103 92,118
+rect http://www.shout.net/~romance/11_3/ 19,124 94,139
+rect http://www.shout.net/~romance/11_4/ 18,145 93,159
+rect http://www.shout.net/~romance/11_5/ 19,164 94,180
+rect http://www.shout.net/~romance/11_6/ 18,187 94,201
+rect http://www.shout.net/~romance/11_7/ 18,207 92,221
+rect http://www.shout.net/~romance/11_8/ 17,229 93,242
+rect http://www.shout.net/~romance/11_9/ 16,249 91,263
+rect http://www.shout.net/~romance/11_10/ 12,269 92,285
+rect http://www.shout.net/~romance/11_11/ 12,293 93,305
+rect http://www.shout.net/~romance/11_12/ 10,312 91,327
+rect http://www.shout.net/~romance/11_13/ 12,334 91,346
+rect http://www.shout.net/~romance/11_14/ 11,354 91,367
+rect http://www.shout.net/~romance/11_15/ 11,375 93,390
+rect http://www.shout.net/~romance/11_16/ 12,397 92,410
+rect http://www.shout.net/~romance/11_17/ 12,417 92,431
+rect http://www.shout.net/~romance/11_18/ 11,439 93,452
+rect http://www.shout.net/~romance/11_19/ 11,459 93,472
+rect http://www.shout.net/~romance/11_20/ 10,481 91,494
+rect http://www.shout.net/~romance/11_21/ 10,500 93,515
+rect http://www.shout.net/~romance/11_22/ 10,523 92,537
+rect http://www.shout.net/~romance/11_23/ 10,544 96,557
+rect http://www.shout.net/~romance/11_24/ 12,565 93,579
+rect http://www.shout.net/~romance/11_25/ 12,586 94,599
